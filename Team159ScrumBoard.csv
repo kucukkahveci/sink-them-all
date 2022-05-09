@@ -1,0 +1,251 @@
+﻿
+
+
+
+
+
+,,,,,,,,,"160
+144
+128
+112
+96
+80
+64
+48
+32
+16"
+
+
+
+
+""
+"Karaktere iki seviyede hızlı ilerleme mekaniği eklenmesi","","","","",""
+"Mekaniklerin üzerinde çalışılması (110)","User Story: As a Small Business Owner I want to have a quote so that I can determine if this is the right product for me.   Business Value: Rating algorithm logic is in place to generate a quote for customers.   Acceptance Criteria: A quote can be successfully generated with details from User.   Story Points: 40 Points","","","Mehmet Karataş",""
+"Havadan gelecek taşları da vurma","","","","",""
+"Karakter kontrolü","Acceptance Criteria:    Knowledge Criteria has been completed between developers about the selenium testing framework. All developers have written a test case for it to be considered complete.","","","Emre Küçükkahveci",""
+"Hayvanların sudan çıkması","","","","",""
+"Collectible toplanması","Acceptance Criteria: Website has no unfunctional aspects, includes removing home page and new home page is state selection","","","Emre Küçükkahveci",""
+"Level level yapmak yerine dalgalar ile ilerlemesi","","","","",""
+"Köprü yerine kuleden vurulması","","","","",""
+"İlk atış mekaniği","","","","Mehmet Karataş",""
+"Kameranın tek açıyı göstermesi","","","","",""
+"Gemilerin geliş mekaniği (Ceren)","","","","",""
+"2D yapılmasına karar verilmesi","","","","",""
+"Level Tasarımı (25)","User Story: As a Small Business Owner I want to see my quote details so I can read the details of it.   Business Value: Users immediately receive a quote so they can determine if the insurance is a good fit for them.   Acceptance Criteria: User receives a quote in the website after filing out the form.   Story Points: 20 Points","","","",""
+"Asset araştırması","As a Small Business Owner I want answers to user questions so that I can get the right quote.   Business Value: provide appropriate questions and selection options so user can seamlessly get to the right mix of what contributes to relevant quote.   Acceptance Criteria: The answers to questions allows for complete development of the algorithm and providing the right quote for all viable options.","","","Özge",""
+"UI ögelerinin belirlenmesi ve yerleşimi","","","","aybike a.",""
+"Proje Yönetimi (15)","User Story: As a Small Business Owner I want to contact the company so that I can answer any questions or resolve any issues I may have.   Business Value: Allow the user to communicate with the product.   Acceptance Criteria: Customers can successfully contact via email for now.    Story Points: 10 Points","","","",""
+"Proje yönetimi araçlarının belirlenmesi ve proje yönetimi","","","","aybike a.",""
+
+
+
+
+
+
+
+,,,,,,,,,"100
+90
+80
+70
+60
+50
+40
+30
+20
+10"
+
+
+
+
+
+
+""
+"Sprint 2"
+"Just in time insurance eligibility messages","User Story: As a small business owner I want to be notified of my eligibility before I go through the quote process so I don't waste my time.   Business Value: Product does not insure customers that would be a loss  for the company.   Acceptance Criteria: Appropriate negative eligibility message and content is displayed if not eligible.   Story Points: 20 Points     Note: Rejecting due to change in product, this is no longer valid","","","",""
+"Collect payment information","User Story: TBD   Business Value: TBD   Story Points: TBD","","","",""
+"Update User Stories","Acceptance Criteria: All User Stories reflect view point of generic stakeholder, don't make them so specific.","","","Atil Samancioglu",""
+"Payment Screen mockup","","","","Atil Samancioglu",""
+"Take out unused functionality","Acceptance Criteria: Website has no unfunctional aspects, includes removing home page and new home page is state selection","","","Atil Samancioglu",""
+"Create Logic to validate input against database","Rejecting this task because only listing valid states now","","","",""
+"Generate Email after quote","User Story: As a Small Business Owner I want to receive an email after I get a link to revisit my quote details.   Business Value: Users have a place to retrieve their quote information after leaving the website.   Acceptance Criteria: User receives an email after they get a quote.   Story Points: 30 Points","","","",""
+"Replace latin text","Acceptance Criteria: All latin text is replaced with real text in  state selection. Remove all other latin text.   Soheil will come up with content for home/state selection","","","Atil Samancioglu",""
+"Selenium Knowledge Transfer","Acceptance Criteria:    Knowledge Criteria has been completed between developers about the selenium testing framework. All developers have written a test case for it to be considered complete.   Rejecting because selenium will no longer be used for testing as its not unit testing","","","",""
+"Get insurance certificate","User Story: TBD   Business Value: TBD   Story Points: TBD","","","",""
+"Contact Us Page","User Story: As a Small Business Owner I want to contact the company so that I can answer any questions or resolve any issues I may have.   Business Value: Allow the user to communicate with the product team.   Acceptance Criteria: Customers can successfully get contact information from contact page.    Story Points: 10 Points","","","",""
+"Revisit Quote Details Page & Link","User Story: As a Small Business Owner I want to revisit my existing quote so I can view the details.   Business Value: Users have a place view their results from a link to see finer grain details.   Acceptance Criteria: User is able to view quote results again from a link.   Story Points: 30 Points","","","",""
+"Fill contact us page with phone number","","","","Atil Samancioglu",""
+"Create database table to store user quote entries","","","","Atil Samancioglu",""
+"Quote Results Page","User Story: As a Small Business Owner I want to see my quote details so I can read the details of it.   Business Value: Users immediately receive a quote so they can determine if the insurance is a good fit for them.   Acceptance Criteria: User receives a quote in the website after filing out the form.   Story Points: 20 Points","","","",""
+"Adjust insurance after getting quote","","","","",""
+"Display quote results from business logic","","","","Atil Samancioglu",""
+"Product Information Page","User Story: As a Small Business Owner I want to read about the specific general liability product so that I can understand the product.   Business Value: Educates the user about our product and what it provides so that understand what they are getting a quote for.   Acceptance Criteria: Product Information page exists and is populated with information about the page.   Story Points: 10 Points","","","",""
+"Quote Business Logic","User Story: As a Small Business Owner I want to have a quote so that I can determine if this is the right product for me.   Business Value: Rating algorithm logic is in place to generate a quote for customers.   Acceptance Criteria: A quote can be successfully generated with details from User.   Story Points: 40 Points","","","",""
+"Contact Us By Email","User Story: As a Small Business Owner I want to contact the company so I can leave a message and they can reach back out to me.    Business Value: Allow the user to communicate with the product by email.   Acceptance Criteria: Customers can successfully contact via email.   Story Points: 30 Points","","","",""
+"Come up with quote business logic","","","","Atil Samancioglu",""
+"New PBI - 10% discount logic","User stories:","","","",""
+"Implement quote business logic","","","","Atil Samancioglu",""
+"Unit Test Sessions","Acceptance Criteria: Unit tests are created in a way to test specific functionalities and within TDD in mind.    Bing/Atil/Mitch will come up with Mob Programming and Pair programming sessions together","","","Atil Samancioglu",""
+"CI/CD Pipeline","User Story: As a Small Business Owner I want my experience of getting a quote to be as smooth as possible.    Business Value: We gain the ability to deploy new features in a very quick and reliable manner   Acceptance Criteria: When new code is pushed to the repo, the testing suite is run against the code and deployed to our url on a successful test   Story Points: 30 Points","","","",""
+"Create the CI/CD pipeline that deploys to heroku","","","","Atil Samancioglu",""
+"Form Validations","Acceptance Criteria: Validations for   -Phone Number Validations -Email Validations -Zip Codes -start date 30  days in future -Dropdown styling","","","Atil Samancioglu",""
+"Generating write-ups for tool tip","Details and information for each field to aid user","","","Atil Samancioglu",""
+"UI Add contextual field message","Tool tip text for each field","","","Atil Samancioglu",""
+"FAQ Page","User Story: As a Small Business Owner I want to be able to quickly answer general questions so that I can better understand the product and how to use it.   Business Value: Allow users to answer their own general questions they may have about the product and the website so they will be more likely to use our product.   Acceptance Criteria: FAQ Page exists and is populated with frequently asked questions and their answers.     Story Points: 10","","","",""
+"Create FAQ Content","","","","Atil Samancioglu",""
+"Create FAQ Page","","","","Atil Samancioglu",""
+"Remove 25+ employee count and 25+ million","As a small business owner I want to know if I am qualified for small business insurance   Business Value: Insurance Masters does not insure anyone who has too high of a liability   Story points: 10 pts","","","",""
+"Fix the UI drop down list","For past and project review fields to remove 25M+ For employee count to remove 25+ add tooltip to explain choices","","","Atil Samancioglu",""
+"Edit business logic and remove unit test","Remove from business logic the 25M+ and remove 25+ employee Unit test to be updated (-2 unit test)","","","Atil Samancioglu",""
+"Review added user stories","To revisit user stories for consistency","","","Atil Samancioglu",""
+
+""
+"Sprint 3"
+"Just in time insurance eligibility messages","User Story: As a small business owner I want to be notified of my eligibility before I go through the quote process so I don't waste my time.   Business Value: Product does not insure customers that would be a loss  for the company.   Acceptance Criteria: Appropriate negative eligibility message and content is displayed if not eligible.   Story Points: 20 Points     Note: Rejecting due to change in product, this is no longer valid","","","",""
+"Generate Email after quote","User Story: As a Small Business Owner I want to receive an email after I get a link to revisit my quote details.   Business Value: Users have a place to retrieve their quote information after leaving the website.   Acceptance Criteria: User receives an email after they get a quote.   Story Points: 30 Points","","","",""
+"Process payment","User Story: As a Small Business Owner, I want to make payment using visa/MC/AMEX, so that I can submit my first insurance monthly payment.   Business Value: allows prospective insured to make an insurance payment   Acceptance Criteria: allowing user to enter cc number, expiry date, security code, name on the card, and valid email, and finally submit button.  payment form should include validation of 16 digits and 1st digit based on card, 3-4 digit security code, selection of card expiry MM YY.  submit button navigated to thank you page.  error messages for invalid cc type, cc number, non-selection of expiry, missing security code, invalid code based on card type.   Story Points: 20","","","",""
+"Email template","","","","",""
+"Submit Payment Information","","","","Atil Samancioglu",""
+"Create Logic to validate input against database","Rejecting this task because only listing valid states now","","","",""
+"Revisit Quote Details Page & Link","User Story: As a Small Business Owner I want to revisit my existing quote so I can view the details.   Business Value: Users have a place view their results from a link to see finer grain details.   Acceptance Criteria: User is able to view quote results again from a link.   Story Points: 30 Points","","","",""
+"Payment Screen mockup","","","","Atil Samancioglu",""
+"Selenium Knowledge Transfer","Acceptance Criteria:    Knowledge Criteria has been completed between developers about the selenium testing framework. All developers have written a test case for it to be considered complete.   Rejecting because selenium will no longer be used for testing as its not unit testing","","","",""
+"Create database table to store user quote entries","","","","Atil Samancioglu",""
+"Submit Payment Tests","","","","Atil Samancioglu",""
+"Product Information Page","User Story: As a Small Business Owner I want to read about the specific general liability product so that I can understand the product.   Business Value: Educates the user about our product and what it provides so that understand what they are getting a quote for.   Acceptance Criteria: Product Information page exists and is populated with information about the page.   Story Points: 10 Points","","","",""
+"Get revised quote prior to bind (while in original quote session)","User Story: As a Small Business Owner I want a revised quote before purchase, so that I can assess impact of deductible and coverage changes on my quote and correct potential errors in answer.   Business Value: business owner can assess monthly changes to payments based on deductible/coverage variables, and correct error prior to payment submissions.   Acceptance Criteria: User is able to go back and forth using the browser back/forward button, and view changes to quote upon modifying variables   Story Points: 5 Points","","","",""
+"Results/Thank You Page","User Story: As a Small Business Owner, I want a confirmation that my insurance payment is successfully processed and that I am effectively insured   Business Value: insurance payment is made and prospective insured receives confirmation of payment and becoming a customer of InsuranceMasters.   Acceptance Criteria: Upon successful payment processing for selected quote, the ""Thank You"" page is rendered including welcome sentiment to insured, effective date of insurance, last 4-digits of credit card, and cert link.   Story Points: 40","","","",""
+"Contact Us By Email","User Story: As a Small Business Owner I want to contact the company so I can leave a message and they can reach back out to me.    Business Value: Allow the user to communicate with the product by email.   Acceptance Criteria: Customers can successfully contact via email.   Story Points: 30 Points","","","",""
+"Get all thank you page content","","","","Atil Samancioglu",""
+"Apply 10% discount to converted insured","User Story: As a Small Business Owner I want to convert from existing insurance to InsuranceMaster, so that I can enjoy a 10% discount on my rate.   Business Value: prospective insured leaves existing carrier and buys from InsuranceMaster, and gets 10% discount.   Acceptance Criteria: Upon confirming user's insurance with existing carrier (user to provide proof of coverage), and verifying eligibility (valid GL insurance in the state and active), a 10% discount is applied to monthly premium   Story Points: 30 Points","","","",""
+"Download receipt","","","","Atil Samancioglu",""
+"Get insurance certificate","User Story: As a Small Business Owner, I want a certificate of insurance, so that I can demonstrate it as proof of GL coverage to regulators, prospective clients, and contractors   Business Value: provides proof of GL insurance to small business owner's stakeholders who require physical or logical insurance cert.   Acceptance Criteria: Upon successful payment processing for selected quote, a link to certificate object is shown, and it is enabled for viewing, downloading and printing.   Story Points: 20","","","",""
+"Design certificate","","","","Atil Samancioglu",""
+"Download Certificate","","","","Atil Samancioglu",""
+"Site Reliability (BDD Test)","User Story: As a Small Business Owner, I want the process of retrieving a quote to have no issues and be a reliable process   Business Value: Less production issues because issues are caught earlier   Acceptance Criteria: One BDD test written to test the default quote selections in the Cucumber Gherkin format and incorporate that into our CI pipeline   Story Points: 30","","","Atil Samancioglu",""
+"Create BDD Test","","","","Atil Samancioglu",""
+"Incorporate BDD Test into pipeline","","","","Atil Samancioglu",""
+
+
+
+
+
+
+
+
+,,,,,,,,,"100
+90
+80
+70
+60
+50
+40
+30
+20
+10"
+
+
+
+
+""
+"Sprint 4"
+"Just in time insurance eligibility messages","User Story: As a small business owner I want to be notified of my eligibility before I go through the quote process so I don't waste my time.   Business Value: Product does not insure customers that would be a loss  for the company.   Acceptance Criteria: Appropriate negative eligibility message and content is displayed if not eligible.   Story Points: 20 Points     Note: Rejecting due to change in product, this is no longer valid","","","",""
+"Shared calendar for team scheduling","Task: To enable sharing of personal calendar between team members to identify common time for team to meet up   Story Points: 10 Points","","","Atil Samancioglu",""
+"Generate Email after quote","User Story: As a Small Business Owner I want to receive an email with a link, so that I can have the option to review my quote with a link.   Business Value: Users have an email record of their quote.    Acceptance Criteria: User receives an email after they get a quote, with quote details and a link to quote details.      Story Points: 30 Points","","","",""
+"Create Logic to validate input against database","Rejecting this task because only listing valid states now","","","",""
+"Email template","","","","",""
+"Selenium Knowledge Transfer","Acceptance Criteria:    Knowledge Criteria has been completed between developers about the selenium testing framework. All developers have written a test case for it to be considered complete.   Rejecting because selenium will no longer be used for testing as its not unit testing","","","",""
+"Revisit Quote Details Page & Link","User Story: As a Small Business Owner I want to revisit my active quote, so that at any point while eligible, I can view and/or get a revised quote, or bind.   Business Value: Users have a place to retrieve their quote information after leaving the website.   Acceptance Criteria: User receives an email after they get a quote, with a link to their quote details.  The user continues to have the ability to modify quote and get a revised quote.  The link stays valid for only 90 days and expires after that date.     Story Points: 30 Points","","","",""
+"Create database table to store user quote entries","","","","Atil Samancioglu",""
+"Contact Us By Email","User Story: As a Small Business Owner I want to contact the company so I can leave a message and they can reach back out to me.    Business Value: Allow the user to communicate with the product by email.   Acceptance Criteria: Customers can successfully contact via email.   Story Points: 30 Points","","","",""
+"Apply 10% discount to converted insured","User Story: As a Small Business Owner I want to convert from existing insurance to InsuranceMaster, so that I can enjoy a 10% discount on my rate.   Business Value: prospective insured leaves existing carrier and buys from InsuranceMaster, and gets 10% discount.   Acceptance Criteria: Upon confirming user's insurance with existing carrier (user to provide proof of coverage), and verifying eligibility (valid GL insurance in the state and active), a 10% discount is applied to monthly premium   Story Points: 30 Points","","","",""
+"Value Proposition on Home Page","","","","",""
+
+"Sprint 1"
+"User Stories"
+"Tasks"
+"Sprint #1 Burndown 26/04 - 09/05"
+"0"
+"26/04"
+"30/04"
+"03/05"
+"05/05"
+"28/04"
+"27/04"
+"01/05"
+"02/05"
+"04/05"
+"06/05"
+"07/05"
+"08/05"
+"09/05"
+"29/04"
+"160"
+"0"
+"Total Story Points"
+"160"
+"Completed"
+"Remaining"
+"Weekends"
+"Ideal"
+"Completed"
+"Sprint #2 Burndown 11/16 - 11/29"
+"User Stories"
+"Tasks"
+"0"
+"'-10'"
+"'-20'"
+"11/16"
+"11/18"
+"11/20"
+"11/23"
+"11/25"
+"11/17"
+"11/21"
+"11/22"
+"11/24"
+"11/26"
+"11/27"
+"11/28"
+"11/29"
+"11/19"
+"120"
+"120"
+"0"
+"Total Story Points"
+"Completed"
+"Remaining"
+"Weekends"
+"Ideal"
+"Completed"
+"Sprint #3 Burndown 11/30 - 12/13"
+"User Stories"
+"Tasks"
+"110"
+"0"
+"11/30"
+"12/02"
+"12/04"
+"12/07"
+"12/09"
+"12/01"
+"12/05"
+"12/06"
+"12/08"
+"12/10"
+"12/11"
+"12/12"
+"12/13"
+"12/03"
+"110"
+"110"
+"0"
+"Total Story Points"
+"Completed"
+"Remaining"
+"Weekends"
+"Ideal"
+"Completed"
+"User Stories"
+"Tasks"
+"110"
+"0"
